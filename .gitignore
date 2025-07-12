@@ -42,3 +42,5 @@ next-env.d.ts
 
 # Docker
 docker-compose.yml
+
+.env
